@@ -20,6 +20,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <p>Lorem ipsum dolor.</p>
       </header>
     </div>
   );
